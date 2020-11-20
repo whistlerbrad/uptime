@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 73
+    "time": 68
   },
   {
     "name": "Wikipedia",
@@ -13,30 +13,14 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00",
-    "time": 100
+    "time": 79
   },
   {
-    "name": "Whistler Peak",
+    "name": "Whistlerpeak",
     "url": "https://whistlerpeak.com",
-    "slug": "whistler-peak",
+    "slug": "whistlerpeak",
     "status": "up",
     "uptime": "100.00",
-    "time": 404
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "99.93",
-    "time": 0
+    "time": 484
   }
 ]

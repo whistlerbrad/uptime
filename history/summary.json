@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 53
+    "time": 73
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00",
-    "time": 89
+    "time": 100
   },
   {
     "name": "Whistler Peak",
@@ -21,7 +21,7 @@
     "slug": "whistler-peak",
     "status": "up",
     "uptime": "100.00",
-    "time": 433
+    "time": 404
   },
   {
     "name": "Broken Site",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00",
+    "uptime": "99.93",
     "time": 0
   }
 ]

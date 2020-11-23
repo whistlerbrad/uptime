@@ -4,23 +4,23 @@
     "url": "https://www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00",
-    "time": 78
+    "uptime": "100.00%",
+    "time": 81
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "100.00",
-    "time": 115
+    "uptime": "100.00%",
+    "time": 126
   },
   {
     "name": "Whistlerpeak",
     "url": "https://whistlerpeak.com",
     "slug": "whistlerpeak",
     "status": "up",
-    "uptime": "100.00",
-    "time": 361
+    "uptime": "100.00%",
+    "time": 366
   }
 ]

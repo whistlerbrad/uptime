@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 81
+    "time": 79
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 126
+    "time": 117
   },
   {
     "name": "Whistlerpeak",
@@ -21,6 +21,6 @@
     "slug": "whistlerpeak",
     "status": "up",
     "uptime": "100.00%",
-    "time": 366
+    "time": 381
   }
 ]

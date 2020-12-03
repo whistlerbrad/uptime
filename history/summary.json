@@ -5,7 +5,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 78
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 82,
+    "timeDay": 50,
+    "timeWeek": 77,
+    "timeMonth": 82,
+    "timeYear": 82
   },
   {
     "name": "Wikipedia",
@@ -13,7 +21,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 120
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 127,
+    "timeDay": 104,
+    "timeWeek": 143,
+    "timeMonth": 127,
+    "timeYear": 127
   },
   {
     "name": "Whistlerpeak",
@@ -21,6 +37,14 @@
     "slug": "whistlerpeak",
     "status": "up",
     "uptime": "100.00%",
-    "time": 440
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 445,
+    "timeDay": 504,
+    "timeWeek": 485,
+    "timeMonth": 445,
+    "timeYear": 445
   }
 ]

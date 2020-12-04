@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 50,
-    "timeWeek": 77,
-    "timeMonth": 82,
-    "timeYear": 82
+    "time": 80,
+    "timeDay": 51,
+    "timeWeek": 70,
+    "timeMonth": 80,
+    "timeYear": 80
   },
   {
     "name": "Wikipedia",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 104,
-    "timeWeek": 143,
-    "timeMonth": 127,
-    "timeYear": 127
+    "time": 120,
+    "timeDay": 18,
+    "timeWeek": 107,
+    "timeMonth": 120,
+    "timeYear": 120
   },
   {
     "name": "Whistlerpeak",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 504,
-    "timeWeek": 485,
-    "timeMonth": 445,
-    "timeYear": 445
+    "time": 455,
+    "timeDay": 598,
+    "timeWeek": 527,
+    "timeMonth": 455,
+    "timeYear": 455
   }
 ]

@@ -2,6 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 81,
-    "timeDay": 90,
-    "timeWeek": 77,
-    "timeMonth": 81,
-    "timeYear": 81
+    "time": 80,
+    "timeDay": 69,
+    "timeWeek": 76,
+    "timeMonth": 80,
+    "timeYear": 80,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
+    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 50,
-    "timeWeek": 108,
-    "timeMonth": 115,
-    "timeYear": 115
+    "time": 121,
+    "timeDay": 233,
+    "timeWeek": 126,
+    "timeMonth": 121,
+    "timeYear": 121,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Whistlerpeak",
     "url": "https://whistlerpeak.com",
+    "icon": "https://favicons.githubusercontent.com/whistlerpeak.com",
     "slug": "whistlerpeak",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 416,
-    "timeWeek": 471,
-    "timeMonth": 453,
-    "timeYear": 453
+    "time": 460,
+    "timeDay": 585,
+    "timeWeek": 461,
+    "timeMonth": 460,
+    "timeYear": 460,
+    "dailyMinutesDown": {}
   }
 ]

@@ -40,9 +40,9 @@
     "url": "https://whistlerpeak.com",
     "icon": "https://favicons.githubusercontent.com/whistlerpeak.com",
     "slug": "whistlerpeak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 462,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-08": 0
+    }
   }
 ]
